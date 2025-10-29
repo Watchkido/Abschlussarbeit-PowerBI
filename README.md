@@ -1,6 +1,6 @@
 # Abschlussprojekt PowerBI: 🚨 Notfallanalyse: Erpressungsversuch durch angeblichen Datenleak
 
-![Startseite der Präsentation: Notfallsitzung des Bankvorstandes](img/screenshot0.png)
+![Startseite der Präsentation: Notfallsitzung des Bankvorstandes](images/screenshot0.png)
 
 ## 📋 Dringliche Agenda
 
@@ -13,9 +13,9 @@
 ## 🎯 Kernaussage
 
 Der vorgelegte Datensatz ist eine Fälschung - ich habe 20 eindeutige Beweise identifiziert, die zeigen, dass es sich um synthetische Mockdaten handelt, nicht um einen echten Datenleak unserer Systeme.
-![Seite 14 des Ad-hoc-Berichts: 14 Beweise für Fälschung des Datensatzes](img/screenshot1.png)
+![Seite 14 des Ad-hoc-Berichts: 14 Beweise für Fälschung des Datensatzes](images/screenshot1.png)
 
-## 🔍 Beweiskategorien für die Fälschung
+## 🔍 Beweiskategorien für die Fälschunggit add images/
 
 1. PCI-DSS Compliance-Verstöße als Fälschungsindikator
 
@@ -34,7 +34,7 @@ Der vorgelegte Datensatz ist eine Fälschung - ich habe 20 eindeutige Beweise id
 - Ungewöhnliche Datenhierarchien und -beziehungen
 - Inkonsistenzen in den Datenattributen
 
-![KPIs aus dem Datensatz](img/screenshot2.png)
+![KPIs aus dem Datensatz](images/screenshot2.png)
 
 4. FICO-Score Anomalien
 
@@ -56,7 +56,7 @@ Der vorgelegte Datensatz ist eine Fälschung - ich habe 20 eindeutige Beweise id
 - Uniforme Verteilungen über verschiedene Regionen
 - Übermäßige Ähnlichkeiten zwischen den Transaktionen
 
-![Suchseite zur vollständigen Aufklärung des Datensatzes](img/screenshot3.png)
+![Suchseite zur vollständigen Aufklärung des Datensatzes](images/screenshot3.png)
 
 ## Forensische Analyse-Ergebnisse
 
@@ -101,11 +101,11 @@ Der vorgelegte Datensatz ist eine Fälschung - ich habe 20 eindeutige Beweise id
 19. Mathematisch ideale Korrelationen (keine realen Unsicherheiten)
 
 Reproduzierbare "Zufalls"muster (deterministische Generierung)
-![Analyseseite: Angeblich geleakte Kundendaten und Zusammenhänge](img/screenshot4.png)
+![Analyseseite: Angeblich geleakte Kundendaten und Zusammenhänge](images/screenshot4.png)
 
 ## 🛡️ Datenmodell & Analyse-Architektur
 
-![Diagramme: Fälschungsmuster im Datensatz](img/screenshot5.png)
+![Diagramme: Fälschungsmuster im Datensatz](images/screenshot5.png)
 
 Forensisches Datenmodell:
 
